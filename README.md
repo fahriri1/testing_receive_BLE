@@ -13,7 +13,9 @@ Tampilan aplikasi untuk testing
 Tampilan blok code
 --
 ![image](https://github.com/fahriri1/testing_receive_BLE/assets/124558195/246f162d-c2a1-4ce2-806b-074c1cb0bd7e)
+
 Untuk menentukan bluetooth yang tersedia dan menentukan bluetooth yang ingin dikoneksi
 
 ![image](https://github.com/fahriri1/testing_receive_BLE/assets/124558195/ea377cac-3fe9-47a4-8dc3-43322d622249)
+
 Algoritma untuk mendapatkan informasi dari arduino
